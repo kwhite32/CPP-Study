@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is my first file of github for study.
